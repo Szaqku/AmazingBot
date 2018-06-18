@@ -1,6 +1,6 @@
 # DiscordBot
 Bot do discorda na bazie biblioteki JDA i LavaPlayer
 
-https://github.com/DV8FromTheWorld/JDA
+[JDA](https://github.com/DV8FromTheWorld/JDA)
 
-https://github.com/sedmelluq/lavaplayer
+[LavaPlayer](https://github.com/sedmelluq/lavaplayer)
