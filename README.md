@@ -10,7 +10,7 @@ taki o sobie bot :)
 - prefix -> umożliwia zmianę prefixu dla bota na danym serwerze,
 - clean -> usuwa poprzednie wiadomości,
 - version -> wyświetla aktualną wersję bota,
-- kill -> zabija bota (możliwość wywołania tylko przez twórcę bota).
+- kill -> zabija bota (możliwość wywołania tylko przez administratora bota).
 
 #### Część muzyczna
 - play -> dodaje utwór do kolejki, możliwe jest wklejenie linku lub wyszukanie poprzez podanie słów kluczowych
