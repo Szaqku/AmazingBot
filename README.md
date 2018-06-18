@@ -1,8 +1,9 @@
 # AmazingBot
+taki o sobie bot :)
 
-### Co potrafi (komendy) ?
+# Co potrafi (komendy) ?
 
-##Część systemowa
+###Część systemowa
 - announce -> tworzy ramkę z tytułem i opisem,
 - kostka -> losuje liczbę z zakresu 1-6,
 - moneta -> losuje orła lub reszkę,
@@ -11,7 +12,7 @@
 - version -> wyświetla aktualną wersję bota,
 - kill -> zabija bota (możliwość wywołania tylko przez twórcę bota).
 
-##Część muzyczna
+###Część muzyczna
 - play -> dodaje utwór do kolejki, możliwe jest wklejenie linku lub wyszukanie poprzez podanie słów kluczowych
 - previous -> dodaje ostatnio odtwarzany utwór,
 - disconnect -> rozłącza bota, jeśli znajduje się aktualnie na serwerze,
